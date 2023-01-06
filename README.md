@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasdeluca1&label=Profile%20views&color=ff855c&style=flat" alt="tomasdeluca1" /> </p>
 
-- 🔭 I’m currently working on [huevsite](https://huevsite.vercel.app/)
+- 📫 I’m open to new job opportunities! You can reach me **creative.huevsite@gmail.com**
+
+- 🔭 I’m currently working on [huevsite](https://huevsite.com.ar/)
 
 - 🌱 I’m currently learning **ReactJs, NodeJs & Express**
 
@@ -12,8 +14,6 @@
 - 👨‍💻 All of my projects are available at [https://huevsite.vercel.app/](https://huevsite.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, CSS, HTML**
-
-- 📫 How to reach me **creative.huevsite@gmail.com**
 
 - ⚡ Fun fact **I'm a creative professional**
 
