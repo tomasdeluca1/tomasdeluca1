@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tomás Deluca</h1>
-<h3 align="center">A passionate & creative frontend developer from Argentina</h3>
+<h3 align="center">A frontend developer received from the advertising career from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasdeluca1&label=Profile%20views&color=ff855c&style=flat" alt="tomasdeluca1" /> </p>
 
+- 🌱 Check out my professional blog & web portfolio on [huevsite.com.ar](https://huevsite.com.ar/)
+
+- 👨‍💻 I usually work with **ReactJs, Javascript & NodeJs**, even though I'm open to learn new technologies.
+
+- 👯 I’m looking to collaborate on **full stack || frontend development** projects.
+
+- 💪With a lot of energy to keep studying and learning stuff on the tech world.
+
 - 📫 I’m open to new job opportunities! You can reach me **creative.huevsite@gmail.com**
-
-- 🔭 I’m currently working on [huevsite](https://huevsite.com.ar/)
-
-- 🌱 I’m currently learning **ReactJs, NodeJs & Express**
-
-- 👯 I’m looking to collaborate on **full stack/frontend development**
-
-- 👨‍💻 All of my projects are available at [https://huevsite.vercel.app/](https://huevsite.vercel.app/)
-
-- 💬 Ask me about **React, Javascript, CSS, HTML**
 
 - ⚡ Fun fact **I'm a creative professional**
 
