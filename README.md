@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tomás Deluca</h1>
-<h3 align="center">A frontend developer received from the advertising career from Argentina</h3>
+<h1 align="center">Hello there 👋</h1>
+<h1 align="center">I'm Tomás Deluca 🇦🇷</h1>
+<h3 align="center">Frontend developer & advertising creative</h3>
+<h5 align="center">Creator of the [Huevsite Blog](https://huevsite.com.ar/)</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasdeluca1&label=Profile%20views&color=ff855c&style=flat" alt="tomasdeluca1" /> </p>
 
