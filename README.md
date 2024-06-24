@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋 I'm Tomás Deluca 🇦🇷</h1>
 <h3 align="center">Fullstack developer & advertising creative</h3>
-<h4 align="center">Creator of the <a href="https://huev.site/blog">Huevsite Blog</a></h4>
+<h4 align="center">Creator of the <a href="https://huev.site/blog">Huevsite</a> <p style={{fontSize:'11px'}}>(Check my blog 😉)</p></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasdeluca1&label=Profile%20views&color=ff855c&style=flat" alt="tomasdeluca1" /> </p>
 
