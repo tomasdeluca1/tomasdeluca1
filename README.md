@@ -1,90 +1,73 @@
-<h1 align="center">Hi👋 I'm Huev, welcome to my site.</h1>
-<h3 align="center">Fullstack developer & advertising creative</h3>
-<h4 align="center">Creator of the <a href="https://huev.site/blog">Huevsite</a> <p style={{fontSize:'11px'}}>(Check my blog 😉)</p></h4>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomasdeluca1&label=Profile%20views&color=ff855c&style=flat" alt="tomasdeluca1" /> </p>
+```
+  ██╗  ██╗██╗   ██╗███████╗██╗   ██╗
+  ██║  ██║██║   ██║██╔════╝██║   ██║
+  ███████║██║   ██║█████╗  ██║   ██║
+  ██╔══██║██║   ██║██╔══╝  ╚██╗ ██╔╝
+  ██║  ██║╚██████╔╝███████╗ ╚████╔╝ 
+  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝  ╚═══╝  
+```
 
-	•	🌱 Check out my professional blog & web portfolio on huev.site
- 
-	•	👨‍💻 I usually work with React, Next.js, JavaScript & Node.js, but I’m always open to learning new technologies.
- 
-	•	👯 I’m looking to collaborate on full stack and frontend development projects.
- 
-	•	💪 I have a lot of energy to keep studying and learning new things in the tech world.
- 
-	•	📫 I’m open to new job opportunities! You can reach me at creative.huevsite@gmail.com
- 
-	•	⚡ Fun fact: I’m also a creative professional with a passion for innovative advertising.
+**Tomás DeLuca**  
+Fullstack Developer · Advertising Creative · Studio Founder
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tomas-deluca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomas-deluca" height="30" width="40" /></a>
-<a href="https://www.behance.net/tomasdeluca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tomasdeluca" height="30" width="40" /></a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=tomasdeluca1&label=Profile+views&color=C8FF00&style=flat)](https://github.com/tomasdeluca1)
 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
+### What I do
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasdeluca1&show_icons=true&locale=en&layout=compact" alt="tomasdeluca1" /></p>
+Diseño y desarrollo productos digitales que funcionan. Trabajo en la intersección entre código y creatividad — desde landing pages hasta herramientas internas con IA.
 
+Fundé dos proyectos propios:
 
+- **[huev.site](https://huev.site)** — Blog y portfolio personal. Notas sobre desarrollo, diseño y lo que estoy construyendo.
+- **[huevsite.studio](https://huevsite.studio)** — Estudio de desarrollo y automatización para empresas. Páginas web, herramientas para equipos y soluciones con IA.
+
+---
+
+### Stack principal
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=flat&logo=javascript&logoColor=C8FF00)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0A0A0A?style=flat&logo=typescript&logoColor=C8FF00)
+![React](https://img.shields.io/badge/-React-0A0A0A?style=flat&logo=react&logoColor=C8FF00)
+![Next.js](https://img.shields.io/badge/-Next.js-0A0A0A?style=flat&logo=next.js&logoColor=C8FF00)
+![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=flat&logo=node.js&logoColor=C8FF00)
+![Vue.js](https://img.shields.io/badge/-Vue.js-0A0A0A?style=flat&logo=vue.js&logoColor=C8FF00)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0A0A0A?style=flat&logo=nuxt.js&logoColor=C8FF00)
+![React Native](https://img.shields.io/badge/-React%20Native-0A0A0A?style=flat&logo=react&logoColor=C8FF00)
+![Express](https://img.shields.io/badge/-Express-0A0A0A?style=flat&logo=express&logoColor=C8FF00)
+![MySQL](https://img.shields.io/badge/-MySQL-0A0A0A?style=flat&logo=mysql&logoColor=C8FF00)
+![Firebase](https://img.shields.io/badge/-Firebase-0A0A0A?style=flat&logo=firebase&logoColor=C8FF00)
+![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=flat&logo=figma&logoColor=C8FF00)
+![Git](https://img.shields.io/badge/-Git-0A0A0A?style=flat&logo=git&logoColor=C8FF00)
+![Linux](https://img.shields.io/badge/-Linux-0A0A0A?style=flat&logo=linux&logoColor=C8FF00)
+![Photoshop](https://img.shields.io/badge/-Photoshop-0A0A0A?style=flat&logo=adobe-photoshop&logoColor=C8FF00)
+![Illustrator](https://img.shields.io/badge/-Illustrator-0A0A0A?style=flat&logo=adobe-illustrator&logoColor=C8FF00)
+
+---
+
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasdeluca1&show_icons=true&locale=en&layout=compact&bg_color=0A0A0A&title_color=C8FF00&text_color=B8B8B8&border_color=333333" alt="Top Languages" />
+
+---
+
+### Contacto
+
+Abierto a proyectos freelance, colaboraciones y trabajo full-time.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=C8FF00)](https://linkedin.com/in/tomas-deluca)
+[![Behance](https://img.shields.io/badge/-Behance-0A0A0A?style=flat&logo=behance&logoColor=C8FF00)](https://www.behance.net/tomasdeluca)
+[![Email](https://img.shields.io/badge/-creative.huevsite@gmail.com-0A0A0A?style=flat&logo=gmail&logoColor=C8FF00)](mailto:creative.huevsite@gmail.com)
+[![Blog](https://img.shields.io/badge/-huev.site-0A0A0A?style=flat&logo=safari&logoColor=C8FF00)](https://huev.site)
+[![Studio](https://img.shields.io/badge/-huevsite.studio-0A0A0A?style=flat&logo=safari&logoColor=C8FF00)](https://huevsite.studio)
+
+---
+
+<div align="center">
+  <sub>© Tomás DeLuca · HUEVSITE STUDIO</sub>
+</div>
