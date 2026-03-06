@@ -9,8 +9,8 @@
   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-**Tomás DeLuca**  
-Fullstack Developer · Advertising Creative · Studio Founder
+**Tomás Deluca**  
+Fullstack Developer · Advertising Creative · Huevsite Founder
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tomasdeluca1&label=Profile+views&color=C8FF00&style=flat)](https://github.com/tomasdeluca1)
 
@@ -24,7 +24,7 @@ Diseño y desarrollo productos digitales que funcionan. Trabajo en la intersecci
 
 Fundé dos proyectos propios:
 
-- **[huev.site](https://huev.site)** — Blog y portfolio personal. Notas sobre desarrollo, diseño y lo que estoy construyendo.
+- **[huevsite.io/huevsite](https://huevsite.io/huevsite)** — Portfolio como builder. Desarrollé el productio huevsite.io para mostrar mis proyectos, y brindé el servicio para la comunidad tech de LATAM.
 - **[huevsite.studio](https://huevsite.studio)** — Estudio de desarrollo y automatización para empresas. Páginas web, herramientas para equipos y soluciones con IA.
 
 ---
