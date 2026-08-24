@@ -24,7 +24,7 @@ Diseño y desarrollo productos digitales que funcionan. Trabajo en la intersecci
 
 Fundé dos proyectos propios:
 
-- **[huevsite.io/huevsite](https://huevsite.io/huevsite)** — Portfolio como builder. Desarrollé el productio huevsite.io para mostrar mis proyectos, y brindé el servicio para la comunidad tech de LATAM.
+- **[huevsite.io/huevsite](https://huevsite.io/tomidelu)** — Portfolio como builder. Desarrollé el productio huevsite.io para mostrar mis proyectos, y brindé el servicio para la comunidad tech de LATAM.
 - **[huevsite.studio](https://huevsite.studio)** — Estudio de desarrollo y automatización para empresas. Páginas web, herramientas para equipos y soluciones con IA.
 
 ---
