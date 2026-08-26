@@ -20,8 +20,6 @@
 
 Diseño y construyo sistemas web para empresas B2B. Buenos Aires.
 
-<sub>Mi primer pitch fue un desastre. Fui igual. Dos años después tengo un estudio.</sub>
-
 </div>
 
 ---
