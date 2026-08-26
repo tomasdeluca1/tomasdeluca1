@@ -9,7 +9,8 @@
   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝  ╚═══╝
 ```
 
-**Tomás De Luca**
+### Tomás Deluca
+
 Diseño y construyo sistemas web para empresas B2B. Buenos Aires.
 
 </div>
@@ -62,5 +63,5 @@ Tomo proyectos de empresas que necesitan una web que cierre negocios. Contame qu
 [**huevsite.studio**](https://huevsite.studio) · [hi@huevsite.studio](mailto:hi@huevsite.studio) · [LinkedIn](https://linkedin.com/in/tomas-deluca) · [Mi perfil de builder](https://huevsite.io/tomas)
 
 <div align="center">
-  <sub>Tomás De Luca · HUEVSITE STUDIO</sub>
+  <sub>Tomás Deluca · HUEVSITE STUDIO</sub>
 </div>
