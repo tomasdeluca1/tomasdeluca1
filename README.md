@@ -1,5 +1,4 @@
 <div align="center">
-
 ### Tomás Deluca
 
 Diseño y construyo sistemas web para empresas B2B. Buenos Aires.
